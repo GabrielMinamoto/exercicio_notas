@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
 
         tbody.prepend(tr);
-        form.requestFullscreen();
+        
 
     });
 
